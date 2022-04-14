@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\numberGuess\bin\Debug\net6.0\numberGuess.exe
+C:\Users\Gregory Wizner\source\repos\numberGuess\bin\Debug\net6.0\numberGuess.deps.json
+C:\Users\Gregory Wizner\source\repos\numberGuess\bin\Debug\net6.0\numberGuess.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\numberGuess\bin\Debug\net6.0\numberGuess.dll
+C:\Users\Gregory Wizner\source\repos\numberGuess\bin\Debug\net6.0\numberGuess.pdb
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.dll
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\refint\numberGuess.dll
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.pdb
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\numberGuess.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\numberGuess\obj\Debug\net6.0\ref\numberGuess.dll
